@@ -15,3 +15,8 @@ This dataset contains all of the UCR reported crimes that have occurred in Pitts
 
 What is the best neighborhood?
 Based on solely my data, the best neighborhood is Troy Hill-Herrs Island. Ola and Matthew, add your conclusion here. vv
+Ola's Information:
+https://data.wprdc.org/dataset/housing-and-community-environment-inspections/resource/6bf7c881-2164-4212-b714-8bea3f660f57
+This data set contains info for the type of requests that effects each neighborhood and this info can be used to improve the neighboorhood and make it safer.
+
+The biggest service request was Conplaint Housing based on my information.
