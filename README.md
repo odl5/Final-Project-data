@@ -1,6 +1,7 @@
 
 Abstract: Based on the data between all of our group members we came to a concensus that Mt.Oliver was the best neighborhood because of its low crime rate and how it didn't have that much service complaints and how also the median age of death was 75.
 
+(Combined data is in folder called combimned data)
 
 Final-Project
 
